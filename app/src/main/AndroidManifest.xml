@@ -25,7 +25,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".SearchActivity" />
-        <activity android:name=".PhotoDetailActivity">
+        <activity android:name=".PhotoDetailActivity"
+            android:label="IMAGE DETAIL">
         </activity>
     </application>
 
